@@ -1,0 +1,16 @@
+﻿  contact.c
+C:\Users\HP\Desktop\通讯录\contact.c(2,9): warning C4068: 未知的杂注“warbubg”
+C:\Users\HP\Desktop\通讯录\contact.h(3,9): warning C4068: 未知的杂注“warbubg”
+C:\Users\HP\Desktop\通讯录\contact.h(21,2): error C2365: “exit”: 重定义；以前的定义是“函数”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(56): message : 参见“exit”的声明
+C:\Users\HP\Desktop\通讯录\contact.h(21,6): error C2086: “Option exit”: 重定义
+C:\Users\HP\Desktop\通讯录\contact.h(21): message : 参见“exit”的声明
+C:\Users\HP\Desktop\通讯录\contact.c(68,17): warning C4013: “srcmp”未定义；假设外部返回 int
+  text.c
+C:\Users\HP\Desktop\通讯录\contact.h(3,9): warning C4068: 未知的杂注“warbubg”
+C:\Users\HP\Desktop\通讯录\contact.h(21,2): error C2365: “exit”: 重定义；以前的定义是“函数”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(56): message : 参见“exit”的声明
+C:\Users\HP\Desktop\通讯录\contact.h(21,6): error C2086: “Option exit”: 重定义
+C:\Users\HP\Desktop\通讯录\contact.h(21): message : 参见“exit”的声明
+C:\Users\HP\Desktop\通讯录\text.c(45,1): error C2051: case 表达式不是常量
+  正在生成代码...
